@@ -1,26 +1,12 @@
-# Python
-__pycache__/
-*.py[cod]
-
-# Virtual environment
-venv/
-.env
-
-# Jupyter
-.ipynb_checkpoints/
-
-# VS Code
-.vscode/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Large model files
-*.pkl
-*.joblib
-*.h5
-*.keras
-
-# Dataset
-data/*.csv
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
+tensorflow
+matplotlib
+seaborn
+streamlit
+shap
+ucimlrepo
